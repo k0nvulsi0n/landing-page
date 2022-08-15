@@ -50,6 +50,7 @@ nav ul a {
     padding-top: 7em;
     padding-bottom: 7em;
     gap: 10px;
+    justify-content: space-between;
 }
 
 .section1 img {
